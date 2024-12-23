@@ -1,5 +1,5 @@
 # Projet initial de système embarqué
-Projet Inital de Système Embarqué INF1900 Polymtl
+Projet Initial de Système Embarqué INF1900 Polymtl
 
 ## Introduction
 
